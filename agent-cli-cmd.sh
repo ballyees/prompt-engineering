@@ -1,0 +1,1 @@
+# agents-cli create [agent-name] --prototype --yes
